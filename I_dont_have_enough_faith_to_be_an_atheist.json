@@ -1,0 +1,1042 @@
+[
+{
+  "id": 1,
+  "title": "Introduction — Why Truth Matters",
+  "summary": "The authors argue that truth is objective and essential for evaluating worldviews. Christianity rises or falls on factual claims, not personal preference.",
+  "embedding_text": "Truth corresponds to reality. If truth exists, contradictory worldviews cannot all be correct. Christianity invites investigation because it is rooted in historical events and testable claims.",
+  "tags": ["truth", "epistemology", "worldviews"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+    },
+{
+  "id": 2,
+  "title": "Chapter 1 — Can We Handle the Truth?",
+  "summary": "The authors challenge relativism and argue that moral and logical truths are unavoidable. Even denials of truth rely on truth claims.",
+  "embedding_text": "Relativism self‑destructs because the claim 'there is no truth' is itself a truth claim. Logical laws are universal and necessary. Moral intuitions point toward objective standards.",
+  "tags": ["relativism", "logic", "objective morality"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 3,
+  "title": "Chapter 2 — Why Should Anyone Believe Anything?",
+  "summary": "People believe things for sociological, psychological, religious, and evidential reasons. Only evidence provides a reliable foundation.",
+  "embedding_text": "Beliefs based on upbringing or emotion are unstable. Evidence-based belief leads to truth. Christianity is grounded in historical events that can be examined.",
+  "tags": ["belief", "evidence", "epistemology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 4,
+  "title": "Chapter 3 — In the Beginning, There Was a Great SURGE",
+  "summary": "The authors outline scientific evidence that the universe had a beginning, using the acronym SURGE to summarize key discoveries.",
+  "embedding_text": "SURGE: Second Law of Thermodynamics, Universe Expansion, Radiation Afterglow, Great Galaxy Seeds, Einstein’s Theory of General Relativity. These point to a finite beginning requiring a cause beyond space, time, and matter.",
+  "tags": ["cosmology", "SURGE", "origin of universe"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 5,
+  "title": "Chapter 4 — Divine Design",
+  "summary": "The authors argue that the universe is finely tuned for life, and this precision points to intentional design.",
+  "embedding_text": "Physical constants such as gravity, cosmological constant, and nuclear forces are calibrated with extreme precision. Even slight variations would make life impossible. Fine‑tuning suggests a purposeful designer.",
+  "tags": ["fine-tuning", "design", "teleological argument"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 6,
+  "title": "Chapter 5 — The First Life: Natural Law or Divine Awe?",
+  "summary": "The authors argue that natural processes cannot account for the origin of life, particularly the information encoded in DNA.",
+  "embedding_text": "Life requires complex specified information. DNA functions like a language system. Natural laws can rearrange matter but cannot generate information. Intelligence is the best explanation for biological information.",
+  "tags": ["origin of life", "DNA", "information theory"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 7,
+  "title": "Chapter 6 — New Life Forms: From the Goo to You via the Zoo?",
+  "summary": "The authors critique Darwinian evolution and argue that macroevolution lacks sufficient evidence.",
+  "embedding_text": "Microevolution is observable, but macroevolution requires new genetic information that natural selection cannot produce. The fossil record shows sudden appearance rather than gradual transitions.",
+  "tags": ["evolution", "biology", "intelligent design"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 8,
+  "title": "Chapter 7 — Mother Teresa vs. Hitler",
+  "summary": "The authors argue that objective morality exists and cannot be grounded in atheistic naturalism.",
+  "embedding_text": "Moral differences between kindness and cruelty are not mere preferences. Objective morality requires a transcendent moral lawgiver. Without God, moral judgments reduce to personal opinion.",
+  "tags": ["morality", "objective morality", "ethics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 9,
+  "title": "Chapter 8 — Miracles: Signs of God or Gullibility?",
+  "summary": "The authors defend the possibility of miracles and argue that objections to miracles assume atheism rather than prove it.",
+  "embedding_text": "If God exists, miracles are possible. Natural laws describe regular patterns but do not prevent the Creator from acting. Historical evidence supports the resurrection as a credible miracle.",
+  "tags": ["miracles", "natural law", "theism"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 10,
+  "title": "The Cosmological Argument — The Universe Had a Beginning",
+  "summary": "Everything that begins to exist has a cause, and scientific evidence shows the universe had a beginning.",
+  "embedding_text": "The universe is not eternal. Big Bang cosmology, expansion, and thermodynamics point to a finite beginning. The cause must be spaceless, timeless, immaterial, powerful, and personal.",
+  "tags": ["cosmological argument", "first cause", "origin"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 11,
+  "title": "The Teleological Argument — Fine-Tuning Points to a Designer",
+  "summary": "The extreme precision of physical constants and biological complexity indicate intentional design.",
+  "embedding_text": "Fine‑tuning of cosmic constants and the information content of DNA exceed what chance or natural processes can produce. Design is the best explanation.",
+  "tags": ["design", "fine-tuning", "teleological argument"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 12,
+  "title": "The Moral Argument — Objective Morality Requires a Moral Lawgiver",
+  "summary": "Universal moral truths cannot arise from matter, chance, or human opinion.",
+  "embedding_text": "If objective morality exists, it must come from a transcendent source. Naturalism cannot ground human dignity, rights, or moral obligation. Theism provides a coherent foundation.",
+  "tags": ["morality", "moral law", "ethics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 13,
+  "title": "The Resurrection — The Central Claim of Christianity",
+  "summary": "The authors argue that the resurrection is supported by early testimony, eyewitness accounts, and the transformation of the disciples.",
+  "embedding_text": "The resurrection is grounded in historical data: early creeds, empty tomb reports, hostile witnesses, and the radical change in the disciples. Alternative explanations like hallucinations or conspiracy fail to explain the evidence. The resurrection best accounts for the rise of Christianity.",
+  "tags": ["resurrection", "historical evidence", "Christianity"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 14,
+  "title": "Is the New Testament Reliable?",
+  "summary": "The authors argue that the New Testament documents are historically trustworthy based on manuscript evidence, early dating, and corroboration.",
+  "embedding_text": "Thousands of manuscripts, early quotations, and archaeological confirmations support the New Testament's accuracy. The short time gap between events and written accounts reduces legendary development. Non-Christian sources confirm key details.",
+  "tags": ["scripture", "manuscripts", "historical reliability"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 15,
+  "title": "Objection: Miracles Are Impossible",
+  "summary": "The authors respond that miracles are possible if God exists, and the evidence for God makes miracles reasonable.",
+  "embedding_text": "A miracle is not a violation of natural law but an intervention by the Creator who established those laws. If the universe had a beginning and is designed, then the God who created it can act within it. The resurrection is a historically supported miracle.",
+  "tags": ["miracles", "natural law", "theism"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 16,
+  "title": "Objection: The Bible Is Full of Errors",
+  "summary": "The authors argue that alleged contradictions in the Bible often stem from misunderstandings of context, genre, or translation.",
+  "embedding_text": "Most alleged contradictions dissolve when considering cultural context, literary style, or harmonization principles. Minor variations in eyewitness accounts actually support authenticity, as fabricated stories tend to be uniform.",
+  "tags": ["scripture", "contradictions", "hermeneutics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 17,
+  "title": "Objection: The Disciples Invented the Resurrection",
+  "summary": "The authors argue that the disciples had no motive to invent the resurrection and suffered greatly for their testimony.",
+  "embedding_text": "Liars make poor martyrs. The disciples gained no wealth, power, or comfort from preaching the resurrection. Their willingness to suffer and die indicates sincerity. Fabricating a resurrection would not explain the empty tomb or hostile witnesses.",
+  "tags": ["resurrection", "disciples", "martyrdom"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 18,
+  "title": "Objection: The Resurrection Was a Hallucination",
+  "summary": "The authors argue that hallucinations are individual experiences and cannot explain group appearances or the empty tomb.",
+  "embedding_text": "Hallucinations do not occur in groups, nor do they produce physical evidence like an empty tomb. The variety of resurrection appearances—indoors, outdoors, to individuals and groups—contradicts the hallucination hypothesis.",
+  "tags": ["resurrection", "hallucinations", "psychology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 19,
+  "title": "Objection: The Resurrection Was a Legend",
+  "summary": "The authors argue that the resurrection accounts are too early and too detailed to be legendary.",
+  "embedding_text": "Legends require long periods to develop, but the resurrection proclamation began immediately after the events. Early creeds like 1 Corinthians 15 date to within a few years of the crucifixion, leaving no time for myth-making.",
+  "tags": ["resurrection", "legend theory", "early testimony"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 20,
+  "title": "Objection: Christianity Copied Pagan Myths",
+  "summary": "The authors argue that alleged parallels between Christianity and pagan myths are exaggerated or fabricated.",
+  "embedding_text": "Claims that Christianity borrowed from pagan myths ignore historical timelines and distort pagan stories. Most supposed parallels were written after Christianity or lack meaningful similarity. The resurrection stands on historical evidence, not mythological borrowing.",
+  "tags": ["mythicism", "pagan parallels", "resurrection"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 21,
+  "title": "Objection: Science Eliminates the Need for God",
+  "summary": "The authors argue that science explains natural processes but cannot explain the origin of nature itself.",
+  "embedding_text": "Science describes how the universe behaves, not why it exists. Scientific laws require a lawgiver. The origin of the universe, fine‑tuning, and moral law point beyond natural processes to a transcendent cause.",
+  "tags": ["science", "atheism", "origin", "philosophy of science"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 22,
+  "title": "Objection: Evolution Explains Everything",
+  "summary": "The authors argue that evolution cannot explain the origin of life, consciousness, morality, or the fine‑tuning of the universe.",
+  "embedding_text": "Even if evolution explains biological diversity, it does not explain the origin of life, the information in DNA, or the existence of consciousness. Evolution presupposes a functioning universe and biological system, which require explanation.",
+  "tags": ["evolution", "origin of life", "consciousness"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 23,
+  "title": "Objection: The Universe Created Itself",
+  "summary": "The authors argue that self‑creation is logically impossible because something cannot exist before it exists.",
+  "embedding_text": "Self‑creation violates the law of non‑contradiction. The universe cannot bring itself into existence because it would need to exist before it existed. A cause outside the universe is required.",
+  "tags": ["cosmology", "self-creation", "logic"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 24,
+  "title": "Objection: The Universe Is Eternal",
+  "summary": "The authors argue that scientific evidence overwhelmingly supports a finite beginning to the universe.",
+  "embedding_text": "The second law of thermodynamics, cosmic expansion, and background radiation all indicate a universe with a beginning. An eternal universe is incompatible with modern cosmology.",
+  "tags": ["cosmology", "eternity", "Big Bang"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 25,
+  "title": "Objection: The Resurrection Was a Conspiracy",
+  "summary": "The authors argue that conspiracies require power, secrecy, and consistency—none of which fit the disciples’ situation.",
+  "embedding_text": "Conspiracies collapse under pressure, but the disciples maintained their testimony under persecution. They lacked political power, had no motive to lie, and faced severe consequences. A conspiracy cannot explain the empty tomb or post‑resurrection appearances.",
+  "tags": ["resurrection", "conspiracy theory", "disciples"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 26,
+  "title": "Objection: The Disciples Stole the Body",
+  "summary": "The authors argue that the disciples lacked motive, opportunity, and courage to steal Jesus’ body.",
+  "embedding_text": "Roman guards faced execution for failure, making theft unlikely. The disciples were fearful and in hiding before the resurrection. Stealing the body would not explain post‑resurrection appearances or their later boldness.",
+  "tags": ["resurrection", "empty tomb", "disciples"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 27,
+  "title": "Objection: The Women Went to the Wrong Tomb",
+  "summary": "The authors argue that the wrong‑tomb theory fails because both Jewish and Roman authorities knew the correct location.",
+  "embedding_text": "If the women went to the wrong tomb, authorities could have easily corrected the mistake by producing the body. The tomb belonged to a known figure, Joseph of Arimathea, making confusion unlikely.",
+  "tags": ["resurrection", "empty tomb", "historical evidence"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 28,
+  "title": "Objection: Jesus Only Fainted",
+  "summary": "The authors argue that the swoon theory is medically impossible given Roman execution methods.",
+  "embedding_text": "Roman crucifixion ensured death through scourging, blood loss, and asphyxiation. A half‑dead Jesus could not move the stone, overpower guards, and inspire belief in a victorious resurrection.",
+  "tags": ["resurrection", "swoon theory", "crucifixion"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 29,
+  "title": "Objection: The Resurrection Was a Spiritual Vision",
+  "summary": "The authors argue that Jewish beliefs about resurrection involved physical bodies, not spiritual visions.",
+  "embedding_text": "First‑century Jews expected bodily resurrection at the end of time, not spiritual visions. The empty tomb and physical interactions with Jesus contradict a purely spiritual interpretation.",
+  "tags": ["resurrection", "Jewish context", "theology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 30,
+  "title": "Objection: The Gospels Were Written Too Late",
+  "summary": "The authors argue that the Gospels were written early enough to be based on eyewitness testimony.",
+  "embedding_text": "Acts ends before Paul’s death (AD 64–67), implying Luke was written earlier. Luke used Mark, placing Mark even earlier. Early creeds and quotations show that core Christian beliefs existed within years of the events.",
+  "tags": ["scripture", "dating", "eyewitnesses"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 31,
+  "title": "Objection: The Gospels Are Biased",
+  "summary": "The authors argue that bias does not invalidate testimony, especially when the writers had nothing to gain.",
+  "embedding_text": "The Gospel writers gained persecution, not power. Bias must be demonstrated, not assumed. Their willingness to suffer supports sincerity, and hostile sources confirm many details.",
+  "tags": ["scripture", "bias", "historical method"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 32,
+  "title": "Objection: The Gospels Are Anonymous",
+  "summary": "The authors argue that early church tradition consistently attributes the Gospels to their traditional authors.",
+  "embedding_text": "Anonymous documents were common in antiquity. Early Christian writers unanimously identify Matthew, Mark, Luke, and John as the authors. No competing authorship traditions exist.",
+  "tags": ["scripture", "authorship", "church history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 33,
+  "title": "Objection: The Gospels Are Full of Legendary Embellishment",
+  "summary": "The authors argue that the Gospels contain realistic, counterproductive, and culturally awkward details that legends avoid.",
+  "embedding_text": "Women as first witnesses, slow‑to‑believe disciples, and embarrassing failures are unlikely inventions. The Gospels lack the exaggerated style typical of later legends.",
+  "tags": ["legend theory", "gospels", "historical reliability"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 34,
+  "title": "Objection: The Disciples Were Fooled by Someone Who Looked Like Jesus",
+  "summary": "The authors argue that mistaken identity cannot explain the variety and nature of resurrection appearances.",
+  "embedding_text": "Jesus appeared multiple times, in different locations, to individuals and groups. Mistaken identity cannot explain physical interactions, extended conversations, or the empty tomb.",
+  "tags": ["resurrection", "appearances", "identity"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 35,
+  "title": "Objection: The Resurrection Was a Later Invention",
+  "summary": "The authors argue that the resurrection was proclaimed immediately, not developed over time.",
+  "embedding_text": "Early creeds like 1 Corinthians 15 date to within a few years of the crucifixion. The earliest Christians centered their message on the resurrection from the beginning.",
+  "tags": ["resurrection", "early church", "creeds"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 36,
+  "title": "Worldview Comparison: Theism vs. Atheism",
+  "summary": "The authors compare the explanatory power of theism and atheism regarding origins, morality, consciousness, and meaning.",
+  "embedding_text": "Theism explains the universe’s beginning, fine‑tuning, moral law, and human consciousness. Atheism struggles to account for these features without invoking chance or uncaused processes.",
+  "tags": ["worldviews", "theism", "atheism"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 37,
+  "title": "Worldview Comparison: Naturalism vs. Christianity",
+  "summary": "The authors argue that naturalism cannot explain immaterial realities such as logic, morality, and consciousness.",
+  "embedding_text": "If only matter exists, then thoughts, moral obligations, and rationality become illusions. Christianity provides a coherent foundation for immaterial truths and human dignity.",
+  "tags": ["naturalism", "Christianity", "philosophy"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 38,
+  "title": "Worldview Comparison: Pantheism vs. Christianity",
+  "summary": "The authors argue that pantheism collapses distinctions between good and evil and denies the reality of the physical world.",
+  "embedding_text": "Pantheism claims everything is divine, making moral distinctions meaningless. Christianity affirms a real world created by a personal God, grounding morality and purpose.",
+  "tags": ["pantheism", "worldviews", "theology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 39,
+  "title": "Worldview Comparison: Postmodernism vs. Truth",
+  "summary": "The authors argue that postmodernism undermines itself by denying objective truth while relying on truth claims.",
+  "embedding_text": "Postmodernism asserts that truth is socially constructed, yet this claim itself is presented as objectively true. The view collapses under its own logic. Objective truth is necessary for meaningful communication.",
+  "tags": ["postmodernism", "truth", "relativism"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 40,
+  "title": "Worldview Comparison: Agnosticism vs. Knowledge",
+  "summary": "The authors argue that agnosticism is often a temporary position because evidence can be evaluated.",
+  "embedding_text": "Agnosticism claims that knowledge of God is impossible, yet this is itself a knowledge claim. Evidence from cosmology, morality, and history provides grounds for belief.",
+  "tags": ["agnosticism", "knowledge", "epistemology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 41,
+  "title": "Objection: We Cannot Trust Eyewitness Testimony",
+  "summary": "The authors argue that eyewitness testimony is foundational to historical investigation and is reliable when multiple independent sources agree.",
+  "embedding_text": "Eyewitness testimony is the backbone of historical knowledge. Independent accounts, early reporting, and corroboration strengthen reliability. The New Testament contains multiple eyewitness perspectives that align on core events.",
+  "tags": ["eyewitness testimony", "history", "gospels"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 42,
+  "title": "Objection: The Disciples Were Illiterate and Could Not Write",
+  "summary": "The authors argue that literacy in the ancient world was more widespread than often assumed, especially among Jewish communities.",
+  "embedding_text": "First‑century Jews valued education, and many could read or write at basic levels. Even if some disciples were not highly literate, they could use scribes. The argument from illiteracy does not undermine Gospel authorship.",
+  "tags": ["literacy", "authorship", "ancient world"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 43,
+  "title": "Objection: The Gospels Were Edited Over Time",
+  "summary": "The authors argue that manuscript evidence shows remarkable stability in the Gospel texts.",
+  "embedding_text": "Thousands of manuscripts allow scholars to identify and correct copying errors. Variants rarely affect meaning. The core message of the Gospels has remained consistent across centuries.",
+  "tags": ["manuscripts", "textual criticism", "scripture"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 44,
+  "title": "Objection: The Gospel Writers Invented Prophecy Fulfillment",
+  "summary": "The authors argue that many prophecies fulfilled by Jesus were outside His human control.",
+  "embedding_text": "Events such as birthplace, method of death, and burial location were not self‑engineered. The convergence of multiple independent prophecies strengthens the case for divine orchestration.",
+  "tags": ["prophecy", "messianic", "scripture"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 45,
+  "title": "Objection: The Bible Was Changed at the Council of Nicaea",
+  "summary": "The authors argue that Nicaea addressed Christological disputes, not the biblical canon.",
+  "embedding_text": "The Council of Nicaea did not rewrite Scripture. It affirmed doctrines already held by the early church. Manuscripts predating Nicaea confirm that the biblical text remained consistent.",
+  "tags": ["Nicaea", "canon", "church history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 46,
+  "title": "Objection: Christianity Is Just One Religion Among Many",
+  "summary": "The authors argue that Christianity is unique because it is rooted in historical events, not merely moral teachings.",
+  "embedding_text": "Most religions emphasize ethical systems or philosophical ideas. Christianity centers on a historical claim: the resurrection. If the resurrection occurred, Christianity is uniquely validated.",
+  "tags": ["religions", "uniqueness", "resurrection"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 47,
+  "title": "Objection: Religious Belief Is Just Wishful Thinking",
+  "summary": "The authors argue that wishful thinking cannot explain the hardships early Christians endured.",
+  "embedding_text": "People do not willingly suffer persecution for comforting fantasies. The early Christians proclaimed the resurrection despite severe consequences, indicating conviction based on evidence, not wishful thinking.",
+  "tags": ["psychology", "belief", "motivation"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 48,
+  "title": "Objection: Faith and Reason Are Opposites",
+  "summary": "The authors argue that biblical faith is trust based on evidence, not blind belief.",
+  "embedding_text": "Faith in Scripture means relying on what one has good reason to believe is true. Christianity encourages investigation and appeals to historical and philosophical evidence.",
+  "tags": ["faith", "reason", "epistemology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 49,
+  "title": "Objection: You Cannot Prove God Exists",
+  "summary": "The authors argue that while absolute proof is rare in any field, strong evidence can justify belief in God.",
+  "embedding_text": "Most important truths—scientific, historical, or personal—are accepted based on evidence, not mathematical certainty. Cosmology, morality, and design provide cumulative evidence for God.",
+  "tags": ["evidence", "theism", "philosophy"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 50,
+  "title": "Objection: Belief in God Is a Psychological Crutch",
+  "summary": "The authors argue that psychological motives do not determine truth.",
+  "embedding_text": "Even if some people believe in God for comfort, this does not address whether God exists. Motives cannot replace evidence. Atheism can also function as a psychological crutch to avoid moral accountability.",
+  "tags": ["psychology", "atheism", "motives"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 51,
+  "title": "Objection: Religion Causes Violence",
+  "summary": "The authors argue that human evil, not religion itself, causes violence, and atheistic regimes have committed atrocities on a massive scale.",
+  "embedding_text": "Violence arises from human nature, not belief systems alone. Secular ideologies like communism have produced more deaths than religious conflicts. Christianity condemns violence and teaches love of neighbor.",
+  "tags": ["violence", "religion", "history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 52,
+  "title": "Objection: God Should Reveal Himself More Clearly",
+  "summary": "The authors argue that God provides sufficient evidence for seekers while allowing freedom for those who resist.",
+  "embedding_text": "God balances clarity with human freedom. Evidence exists in creation, conscience, Scripture, and the resurrection. Demanding overwhelming proof would undermine free will and genuine relationship.",
+  "tags": ["revelation", "free will", "evidence"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 53,
+  "title": "Objection: If God Exists, Why Is There Evil?",
+  "summary": "The authors argue that the existence of evil actually supports the existence of God because evil presupposes an objective moral standard.",
+  "embedding_text": "Calling something evil assumes a standard of goodness. Without God, moral categories collapse into personal preference. The problem of evil is a challenge for all worldviews, but Christianity offers both explanation and hope.",
+  "tags": ["evil", "suffering", "morality"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 54,
+  "title": "Objection: A Good God Would Not Allow Suffering",
+  "summary": "The authors argue that suffering can serve greater purposes, including moral growth, free will, and the possibility of love.",
+  "embedding_text": "A world without suffering would eliminate courage, compassion, and meaningful choice. God can use suffering to accomplish long‑term good. The cross shows that God enters human suffering rather than avoiding it.",
+  "tags": ["suffering", "theodicy", "free will"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 55,
+  "title": "Objection: Hell Is Immoral",
+  "summary": "The authors argue that hell respects human freedom and reflects the seriousness of rejecting God.",
+  "embedding_text": "Hell is not arbitrary punishment but the natural consequence of choosing separation from God. Love requires freedom, and freedom includes the possibility of rejecting God eternally.",
+  "tags": ["hell", "judgment", "freedom"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 56,
+  "title": "Objection: God Is Hidden",
+  "summary": "The authors argue that God provides enough evidence for seekers while allowing freedom for those who resist.",
+  "embedding_text": "God reveals Himself through creation, conscience, Scripture, and the resurrection. Hiddenness preserves human freedom and prevents coerced belief. Evidence is sufficient but not overwhelming, allowing genuine relationship rather than forced acknowledgment.",
+  "tags": ["hiddenness", "revelation", "free will"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 57,
+  "title": "Objection: Religion Is a Product of Culture",
+  "summary": "The authors argue that cultural influence does not determine truth.",
+  "embedding_text": "People often adopt beliefs from their environment, but this does not make those beliefs false. Truth is independent of cultural background. Evidence, not geography, determines whether Christianity is true.",
+  "tags": ["culture", "belief", "truth"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 58,
+  "title": "Objection: Christians Are Hypocrites",
+  "summary": "The authors argue that moral failure among Christians does not invalidate Christianity’s truth claims.",
+  "embedding_text": "Hypocrisy contradicts Christian teaching but does not disprove the resurrection or the existence of God. The validity of a worldview depends on evidence, not the behavior of its followers.",
+  "tags": ["hypocrisy", "morality", "worldviews"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 59,
+  "title": "Objection: Christianity Is Too Exclusive",
+  "summary": "The authors argue that truth by nature is exclusive, and Christianity’s claims must be evaluated on their merits.",
+  "embedding_text": "All truth claims exclude their opposites. Christianity is not unique in being exclusive; every worldview makes exclusive claims. The question is which worldview is true based on evidence.",
+  "tags": ["exclusivity", "truth", "worldviews"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 60,
+  "title": "Objection: Christianity Is Anti‑Science",
+  "summary": "The authors argue that Christianity historically fostered scientific discovery and is compatible with scientific investigation.",
+  "embedding_text": "Many founders of modern science were Christians who believed the universe was orderly because it was created by a rational God. Christianity explains why science works: the universe is intelligible and governed by consistent laws.",
+  "tags": ["science", "history", "compatibility"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 61,
+  "title": "Objection: Miracles Violate Natural Law",
+  "summary": "The authors argue that miracles do not violate natural law but represent God’s intervention in His creation.",
+  "embedding_text": "Natural laws describe regular patterns; they do not prevent God from acting. A miracle is not a contradiction of nature but an addition of supernatural power. The resurrection fits this category.",
+  "tags": ["miracles", "natural law", "theism"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 62,
+  "title": "Objection: The Universe Does Not Need a Designer",
+  "summary": "The authors argue that the fine‑tuning of the universe strongly suggests intentional design.",
+  "embedding_text": "The precise calibration of physical constants cannot be explained by chance or necessity. The universe appears engineered for life. Design is the most reasonable explanation for fine‑tuning.",
+  "tags": ["design", "fine-tuning", "cosmology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 63,
+  "title": "Objection: Morality Is Just a Human Invention",
+  "summary": "The authors argue that objective morality cannot arise from human opinion or evolutionary processes.",
+  "embedding_text": "If morality is subjective, no action can be universally condemned. Evolutionary explanations reduce morality to survival instincts, not objective duties. The existence of real moral obligations points to a transcendent moral lawgiver.",
+  "tags": ["morality", "ethics", "objective morality"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 64,
+  "title": "Objection: Consciousness Can Be Explained Materially",
+  "summary": "The authors argue that consciousness cannot be reduced to physical processes.",
+  "embedding_text": "Thoughts, intentions, and self‑awareness are immaterial realities. Materialism cannot explain subjective experience or rationality. Consciousness points to a non‑material source consistent with theism.",
+  "tags": ["consciousness", "mind", "philosophy of mind"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 65,
+  "title": "Objection: Free Will Is an Illusion",
+  "summary": "The authors argue that free will is necessary for rationality, morality, and responsibility.",
+  "embedding_text": "If all thoughts are determined by physical processes, then reasoning collapses. Free will is required for moral accountability and meaningful choice. Theism provides a foundation for genuine freedom.",
+  "tags": ["free will", "determinism", "rationality"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 66,
+  "title": "Objection: The Universe Could Be a Multiverse",
+  "summary": "The authors argue that the multiverse hypothesis does not eliminate the need for a designer.",
+  "embedding_text": "A multiverse would still require fine‑tuned mechanisms to generate universes. It shifts the problem rather than solving it. The multiverse itself would need explanation.",
+  "tags": ["multiverse", "fine-tuning", "cosmology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 67,
+  "title": "Objection: The Bible Is Mythology",
+  "summary": "The authors argue that the Bible differs from mythology in genre, historical detail, and eyewitness grounding.",
+  "embedding_text": "Myths use symbolic language and lack historical anchors. The Bible includes names, dates, locations, and verifiable events. Archaeology repeatedly confirms biblical details.",
+  "tags": ["mythology", "scripture", "history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 68,
+  "title": "Objection: Christianity Suppresses Human Freedom",
+  "summary": "The authors argue that Christianity enhances freedom by grounding human dignity and moral responsibility.",
+  "embedding_text": "Freedom requires objective moral boundaries. Christianity affirms human worth and provides a framework for meaningful choice. Moral relativism ultimately undermines freedom.",
+  "tags": ["freedom", "morality", "human dignity"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 69,
+  "title": "Objection: Christianity Is Anti‑Intellectual",
+  "summary": "The authors argue that Christianity encourages the pursuit of truth and has historically supported education and scholarship.",
+  "embedding_text": "Christian thinkers have shaped philosophy, science, and literature. The biblical worldview affirms reason as a gift from God. Christianity invites rigorous investigation.",
+  "tags": ["intellectualism", "education", "reason"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 70,
+  "title": "Objection: Christianity Is Based on Blind Faith",
+  "summary": "The authors argue that Christianity is grounded in evidence, not blind belief.",
+  "embedding_text": "Biblical faith is trust in what one has good reason to believe is true. The resurrection, fulfilled prophecy, and historical reliability of Scripture provide a rational foundation for Christian faith.",
+  "tags": ["faith", "evidence", "reason"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 71,
+  "title": "Objection: Christianity Is Just Emotional Comfort",
+  "summary": "The authors argue that Christianity often brings hardship rather than comfort, showing that belief is grounded in conviction, not emotion.",
+  "embedding_text": "Early Christians faced persecution, loss of status, and death. Emotional comfort cannot explain their willingness to suffer. Christianity’s truth claims stand independently of emotional appeal.",
+  "tags": ["emotion", "motives", "belief"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 72,
+  "title": "Objection: Christianity Is Based on Ignorance",
+  "summary": "The authors argue that Christianity is rooted in historical events and rational investigation, not ignorance.",
+  "embedding_text": "Christianity encourages the use of reason and evidence. The resurrection, fulfilled prophecy, and manuscript reliability provide intellectual grounding. Ignorance cannot account for Christianity’s historical impact.",
+  "tags": ["ignorance", "reason", "history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 73,
+  "title": "Objection: Christianity Is Oppressive",
+  "summary": "The authors argue that Christianity historically elevated human dignity, inspired charity, and advanced human rights.",
+  "embedding_text": "Christian teaching affirms the equal worth of all people. Christian movements have driven abolition, education, and humanitarian work. Oppression contradicts Christian ethics rather than flowing from them.",
+  "tags": ["oppression", "human rights", "ethics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 74,
+  "title": "Objection: Christianity Is Anti‑Reason",
+  "summary": "The authors argue that Christianity is compatible with rational inquiry and has shaped Western intellectual tradition.",
+  "embedding_text": "Christian thinkers like Augustine, Aquinas, and Pascal integrated faith with reason. The biblical worldview affirms that humans are rational beings created by a rational God.",
+  "tags": ["reason", "philosophy", "intellectual history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 75,
+  "title": "Objection: Christianity Is Anti‑Freedom",
+  "summary": "The authors argue that Christianity supports genuine freedom by grounding moral responsibility and human dignity.",
+  "embedding_text": "Freedom requires moral boundaries and intrinsic human worth. Christianity affirms both. Moral relativism undermines freedom by removing objective standards.",
+  "tags": ["freedom", "morality", "dignity"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 76,
+  "title": "Objection: Christianity Is Anti‑Sex",
+  "summary": "The authors argue that Christianity affirms sexuality within a moral framework designed for human flourishing.",
+  "embedding_text": "Christian sexual ethics emphasize commitment, fidelity, and mutual respect. Boundaries protect individuals and relationships. Christianity is not anti‑sex but pro‑healthy sexuality.",
+  "tags": ["sexuality", "ethics", "relationships"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 77,
+  "title": "Objection: Christianity Is Anti‑Pleasure",
+  "summary": "The authors argue that Christianity affirms pleasure within proper boundaries and warns against destructive excess.",
+  "embedding_text": "Pleasure is a gift from God but becomes harmful when detached from moral order. Christianity promotes long‑term joy over short‑term indulgence.",
+  "tags": ["pleasure", "ethics", "human flourishing"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 78,
+  "title": "Objection: Christianity Is Anti‑Progress",
+  "summary": "The authors argue that Christianity historically fueled scientific, moral, and social progress.",
+  "embedding_text": "Christian belief in a rational Creator inspired scientific exploration. Christian ethics shaped human rights, charity, and education. Progress aligns with Christian principles.",
+  "tags": ["progress", "science", "history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 79,
+  "title": "Objection: Christianity Is Anti‑Diversity",
+  "summary": "The authors argue that Christianity is a global faith that transcends ethnicity, culture, and geography.",
+  "embedding_text": "Christianity spread across diverse cultures without erasing identity. Its core message applies universally because it addresses universal human needs.",
+  "tags": ["diversity", "global Christianity", "culture"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 80,
+  "title": "Human Nature: The Reality of Sin",
+  "summary": "The authors argue that human moral failure is universal and confirms the biblical view of sin.",
+  "embedding_text": "Human beings consistently fall short of moral ideals. This universal pattern aligns with the Christian doctrine of sin, which explains both human greatness and human corruption.",
+  "tags": ["sin", "human nature", "morality"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 81,
+  "title": "Human Nature: The Desire for Meaning",
+  "summary": "The authors argue that humans naturally seek purpose, which points beyond material existence.",
+  "embedding_text": "Meaning cannot be grounded in a purely material universe. The human longing for purpose suggests we are made for more than survival. Christianity provides a coherent framework for meaning.",
+  "tags": ["meaning", "purpose", "existential"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 82,
+  "title": "Human Nature: The Longing for Justice",
+  "summary": "The authors argue that the universal desire for justice points to a moral standard beyond human society.",
+  "embedding_text": "People instinctively recognize injustice and desire accountability. This longing implies an objective moral order. Christianity explains justice through God’s character and final judgment.",
+  "tags": ["justice", "morality", "ethics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 83,
+  "title": "Human Nature: The Search for Identity",
+  "summary": "The authors argue that human identity cannot be grounded solely in material or social categories.",
+  "embedding_text": "Identity rooted in achievements or social roles is unstable. Christianity grounds identity in being created and loved by God, providing stability and dignity.",
+  "tags": ["identity", "human nature", "dignity"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 84,
+  "title": "Human Nature: The Experience of Guilt",
+  "summary": "The authors argue that guilt reflects real moral responsibility, not merely social conditioning.",
+  "embedding_text": "Guilt arises when we violate moral law. Its universality suggests an objective moral standard. Christianity offers both explanation and redemption for guilt.",
+  "tags": ["guilt", "morality", "conscience"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 85,
+  "title": "Human Nature: The Desire for Love",
+  "summary": "The authors argue that the human longing for unconditional love points to a transcendent source.",
+  "embedding_text": "Love is more than a chemical reaction; it reflects deep relational design. Christianity teaches that humans are made in the image of a relational God, explaining our desire for love.",
+  "tags": ["love", "human nature", "relationships"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 86,
+  "title": "Human Nature: The Longing for Transcendence",
+  "summary": "The authors argue that humans naturally seek something beyond the material world, suggesting we are made for more than physical existence.",
+  "embedding_text": "Across cultures, humans express spiritual longing through worship, art, and philosophy. This universal desire points to a transcendent source. Christianity explains this longing as evidence that humans are created for relationship with God.",
+  "tags": ["transcendence", "spirituality", "human nature"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 87,
+  "title": "Human Nature: The Drive for Purposeful Action",
+  "summary": "The authors argue that humans instinctively seek purpose, which naturalism cannot adequately explain.",
+  "embedding_text": "Purpose cannot be grounded in a universe driven by blind chance. The human drive for meaningful action suggests intentional design. Christianity provides a coherent framework for purpose rooted in God’s character.",
+  "tags": ["purpose", "meaning", "design"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 88,
+  "title": "Human Nature: The Experience of Beauty",
+  "summary": "The authors argue that beauty points beyond survival instincts and suggests a transcendent aesthetic order.",
+  "embedding_text": "Beauty cannot be reduced to evolutionary advantage. Humans appreciate art, music, and nature in ways that transcend survival. Christianity explains beauty as a reflection of God’s creative nature.",
+  "tags": ["beauty", "aesthetics", "transcendence"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 89,
+  "title": "Human Nature: The Capacity for Rational Thought",
+  "summary": "The authors argue that rationality is difficult to explain under naturalism but fits well within a theistic worldview.",
+  "embedding_text": "If thoughts are merely chemical reactions, rationality becomes unreliable. Theism grounds reason in a rational Creator who made humans in His image. This explains why logic and mathematics work.",
+  "tags": ["rationality", "logic", "philosophy of mind"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 90,
+  "title": "Human Nature: The Sense of Moral Obligation",
+  "summary": "The authors argue that moral obligation cannot be grounded in evolutionary processes or social convention.",
+  "embedding_text": "People feel obligated to do what is right even when it conflicts with self‑interest. This sense of duty points to a moral lawgiver. Christianity explains moral obligation as rooted in God’s character.",
+  "tags": ["morality", "obligation", "ethics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 91,
+  "title": "Human Nature: The Search for Ultimate Truth",
+  "summary": "The authors argue that humans naturally seek ultimate truth, which implies that truth exists and can be known.",
+  "embedding_text": "The desire to understand reality suggests that truth is real and discoverable. Christianity claims that truth is grounded in God and revealed through creation, conscience, and Christ.",
+  "tags": ["truth", "epistemology", "human nature"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 92,
+  "title": "Human Nature: The Desire for Eternal Life",
+  "summary": "The authors argue that the human longing for immortality suggests we are made for eternal existence.",
+  "embedding_text": "Cultures throughout history express hope for life beyond death. Christianity teaches that this desire reflects God’s design and the reality of eternal life through Christ.",
+  "tags": ["eternity", "immortality", "hope"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 93,
+  "title": "Philosophical Foundation: The Law of Non‑Contradiction",
+  "summary": "The authors argue that logical laws are universal and necessary for evaluating truth claims.",
+  "embedding_text": "A statement and its opposite cannot both be true at the same time and in the same sense. This law undercuts relativism and supports rational investigation. Christianity aligns with logical consistency.",
+  "tags": ["logic", "non-contradiction", "truth"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 94,
+  "title": "Philosophical Foundation: The Law of Causality",
+  "summary": "The authors argue that causality is foundational to science and philosophy and supports the cosmological argument.",
+  "embedding_text": "Everything that begins to exist has a cause. The universe began to exist; therefore, it requires a cause beyond itself. This principle underlies scientific inquiry and supports theism.",
+  "tags": ["causality", "cosmology", "philosophy"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 95,
+  "title": "Philosophical Foundation: The Reliability of the Senses",
+  "summary": "The authors argue that naturalism undermines trust in human senses, while theism explains why our senses are generally reliable.",
+  "embedding_text": "If senses evolved solely for survival, not truth, their reliability is questionable. Theism grounds sensory reliability in a rational Creator who designed humans to understand the world.",
+  "tags": ["epistemology", "senses", "naturalism"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 96,
+  "title": "Philosophical Foundation: The Reliability of Reason",
+  "summary": "The authors argue that reason cannot be trusted under naturalism but fits within a theistic worldview.",
+  "embedding_text": "If thoughts are determined by physical processes, rationality collapses. Theism explains reason as a reflection of God’s rational nature. This makes logical thinking possible.",
+  "tags": ["reason", "rationality", "philosophy of mind"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 97,
+  "title": "Philosophical Foundation: The Existence of Objective Truth",
+  "summary": "The authors argue that objective truth exists and is necessary for meaningful communication and investigation.",
+  "embedding_text": "Truth is not subjective preference but correspondence to reality. Without objective truth, science, morality, and rational discourse collapse. Christianity affirms objective truth grounded in God.",
+  "tags": ["truth", "objectivity", "epistemology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 98,
+  "title": "Philosophical Foundation: The Existence of Objective Morality",
+  "summary": "The authors argue that objective morality cannot arise from naturalistic processes.",
+  "embedding_text": "Moral obligations transcend personal preference and cultural norms. Naturalism cannot account for this. Christianity grounds morality in the character of a holy God.",
+  "tags": ["morality", "ethics", "objective morality"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 99,
+  "title": "Philosophical Foundation: The Existence of Free Will",
+  "summary": "The authors argue that free will is incompatible with strict naturalism but fits within a theistic worldview.",
+  "embedding_text": "Deterministic naturalism reduces choices to chemical reactions. Theism affirms genuine freedom rooted in the soul. Free will is necessary for morality, love, and rationality.",
+  "tags": ["free will", "determinism", "theism"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 100,
+  "title": "Philosophical Foundation: The Existence of Consciousness",
+  "summary": "The authors argue that consciousness cannot be reduced to physical processes and points to a non‑material source.",
+  "embedding_text": "Subjective experience, intentionality, and self‑awareness defy material explanation. Consciousness aligns with the idea of an immaterial soul created by God.",
+  "tags": ["consciousness", "mind", "soul"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 101,
+  "title": "Philosophical Foundation: The Existence of the Soul",
+  "summary": "The authors argue that human consciousness, identity, and free will point to an immaterial soul.",
+  "embedding_text": "Materialism cannot explain personal identity over time, intentionality, or subjective experience. The continuity of the self suggests an immaterial soul consistent with the biblical view of human nature.",
+  "tags": ["soul", "consciousness", "identity"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 102,
+  "title": "Philosophical Foundation: The Existence of Meaning",
+  "summary": "The authors argue that objective meaning cannot exist in a purely material universe.",
+  "embedding_text": "If humans are accidental products of chance, meaning is an illusion. Christianity grounds meaning in God’s purpose for creation and humanity.",
+  "tags": ["meaning", "purpose", "existential"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 103,
+  "title": "Philosophical Foundation: The Existence of Purpose",
+  "summary": "The authors argue that purpose is real and cannot be grounded in naturalistic explanations.",
+  "embedding_text": "Purpose requires intention. Naturalism offers no intentional cause for human existence. Christianity provides a coherent explanation for purpose rooted in God’s design.",
+  "tags": ["purpose", "design", "teleology"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 104,
+  "title": "Philosophical Foundation: The Existence of Beauty",
+  "summary": "The authors argue that beauty reflects an objective aesthetic order pointing to a Creator.",
+  "embedding_text": "Beauty transcends survival value. Humans recognize and create beauty in ways that suggest a deeper aesthetic reality. Christianity explains beauty as a reflection of God’s nature.",
+  "tags": ["beauty", "aesthetics", "transcendence"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 105,
+  "title": "Philosophical Foundation: The Existence of Justice",
+  "summary": "The authors argue that justice requires an objective moral standard and ultimate accountability.",
+  "embedding_text": "Human longing for justice implies a moral order beyond human opinion. Christianity provides a framework for justice through God’s character and final judgment.",
+  "tags": ["justice", "morality", "ethics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 106,
+  "title": "Philosophical Foundation: The Existence of Human Dignity",
+  "summary": "The authors argue that human dignity cannot be grounded in naturalism but is coherent within theism.",
+  "embedding_text": "If humans are mere biological accidents, dignity is arbitrary. Christianity grounds dignity in the belief that humans are made in the image of God.",
+  "tags": ["dignity", "human nature", "imago dei"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 107,
+  "title": "Philosophical Foundation: The Existence of Moral Responsibility",
+  "summary": "The authors argue that moral responsibility presupposes free will and objective morality.",
+  "embedding_text": "Naturalism undermines responsibility by reducing actions to physical processes. Christianity affirms genuine moral agency rooted in the soul and God’s moral law.",
+  "tags": ["responsibility", "morality", "free will"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 108,
+  "title": "Philosophical Foundation: The Existence of Human Value",
+  "summary": "The authors argue that human value cannot be grounded in evolutionary biology.",
+  "embedding_text": "Evolution assigns value based on survival, not intrinsic worth. Christianity teaches that humans have inherent value because they are created by God.",
+  "tags": ["value", "human nature", "ethics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 109,
+  "title": "Philosophical Foundation: The Existence of Objective Logic",
+  "summary": "The authors argue that logic is immaterial and universal, pointing to a rational Creator.",
+  "embedding_text": "Logical laws are not physical objects yet govern all reasoning. Their universality suggests a transcendent source. Christianity grounds logic in God’s rational nature.",
+  "tags": ["logic", "rationality", "philosophy"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 110,
+  "title": "Philosophical Foundation: The Existence of Objective Truth in Morality",
+  "summary": "The authors argue that moral truths exist independently of human opinion.",
+  "embedding_text": "Moral relativism collapses into contradiction. Objective moral truths require a transcendent moral lawgiver. Christianity provides this foundation.",
+  "tags": ["morality", "truth", "ethics"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 111,
+  "title": "Historical Foundation: Early Christian Creeds",
+  "summary": "The authors argue that early creeds demonstrate that core Christian beliefs existed immediately after the resurrection.",
+  "embedding_text": "Creeds like 1 Corinthians 15 date to within a few years of the crucifixion. They summarize eyewitness testimony and refute the idea of later legendary development.",
+  "tags": ["creeds", "early church", "history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 112,
+  "title": "Historical Foundation: Non‑Christian Sources",
+  "summary": "The authors argue that non‑Christian historians confirm key details about Jesus and early Christianity.",
+  "embedding_text": "Writers like Josephus, Tacitus, and Pliny mention Jesus, His execution, and the early Christian movement. These independent sources corroborate biblical accounts.",
+  "tags": ["history", "non-Christian sources", "corroboration"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 113,
+  "title": "Historical Foundation: Archaeological Confirmation",
+  "summary": "The authors argue that archaeology repeatedly supports the historical reliability of the Bible.",
+  "embedding_text": "Discoveries such as inscriptions, cities, and cultural practices align with biblical descriptions. Archaeology has confirmed numerous details once doubted by critics.",
+  "tags": ["archaeology", "scripture", "history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 114,
+  "title": "Historical Foundation: The Martyrdom of the Apostles",
+  "summary": "The authors argue that the apostles’ willingness to die for their testimony supports the sincerity of their claims.",
+  "embedding_text": "People may die for a lie they believe is true, but not for a lie they invented. The apostles faced persecution and death, indicating genuine conviction in the resurrection.",
+  "tags": ["martyrdom", "resurrection", "disciples"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 115,
+  "title": "Historical Foundation: The Explosion of Early Christianity",
+  "summary": "The authors argue that the rapid spread of Christianity is best explained by the resurrection.",
+  "embedding_text": "Christianity grew despite persecution, lack of political power, and cultural resistance. The resurrection provided the catalyst for this explosive growth.",
+  "tags": ["early church", "growth", "resurrection"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 116,
+  "title": "Historical Foundation: The Empty Tomb",
+  "summary": "The authors argue that the empty tomb is supported by multiple independent lines of evidence.",
+  "embedding_text": "The empty tomb is attested by early sources, women as primary witnesses, and the inability of authorities to produce a body. Its acceptance by both friends and enemies of Christianity strengthens its historical credibility.",
+  "tags": ["empty tomb", "resurrection", "history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 117,
+  "title": "Historical Foundation: Women as First Witnesses",
+  "summary": "The authors argue that women being the first witnesses supports authenticity because their testimony carried low status in ancient culture.",
+  "embedding_text": "If the story were fabricated, women would not be chosen as primary witnesses. Their inclusion reflects historical honesty rather than legendary embellishment.",
+  "tags": ["women witnesses", "resurrection", "authenticity"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 118,
+  "title": "Historical Foundation: Embarrassing Details",
+  "summary": "The authors argue that the Gospels include embarrassing details that writers would not invent.",
+  "embedding_text": "Disciples’ failures, Peter’s denial, and the disciples’ doubts undermine the idea of fabrication. Embarrassing material is a hallmark of authentic historical reporting.",
+  "tags": ["embarrassing details", "gospels", "authenticity"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 119,
+  "title": "Historical Foundation: Enemy Attestation",
+  "summary": "The authors argue that admissions by opponents of Christianity strengthen the historical case.",
+  "embedding_text": "Jewish and Roman sources acknowledge Jesus’ existence, execution, and the disciples’ belief in His resurrection. Hostile testimony is powerful because it comes from those with no motive to support Christianity.",
+  "tags": ["enemy attestation", "history", "corroboration"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 120,
+  "title": "Historical Foundation: The Transformation of the Disciples",
+  "summary": "The authors argue that the radical change in the disciples is best explained by the resurrection.",
+  "embedding_text": "Fearful followers became bold proclaimers willing to suffer and die. Psychological explanations fail to account for this transformation. The resurrection provides the most coherent explanation.",
+  "tags": ["disciples", "transformation", "resurrection"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 121,
+  "title": "Historical Foundation: The Conversion of Paul",
+  "summary": "The authors argue that Paul’s dramatic conversion supports the resurrection’s historicity.",
+  "embedding_text": "Paul was a persecutor of Christians with no motive to convert. His sudden change and lifelong ministry require a powerful cause. His testimony is early, detailed, and consistent.",
+  "tags": ["Paul", "conversion", "resurrection"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 122,
+  "title": "Historical Foundation: The Conversion of James",
+  "summary": "The authors argue that James, once a skeptic, became a leader in the early church after encountering the risen Jesus.",
+  "embedding_text": "James did not believe in Jesus during His ministry. His later leadership and martyrdom indicate sincere conviction. The resurrection appearance to James is a key historical data point.",
+  "tags": ["James", "skepticism", "resurrection"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 123,
+  "title": "Historical Foundation: Early Worship of Jesus",
+  "summary": "The authors argue that early Christians worshiped Jesus as divine immediately after the resurrection.",
+  "embedding_text": "High Christology appears in the earliest Christian writings, not as a later development. Worship of Jesus by monotheistic Jews requires a dramatic event like the resurrection.",
+  "tags": ["Christology", "worship", "early church"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 124,
+  "title": "Historical Foundation: The Failure of Alternative Theories",
+  "summary": "The authors argue that competing explanations for the resurrection fail to account for all the evidence.",
+  "embedding_text": "Hallucination, conspiracy, wrong‑tomb, and swoon theories each explain only fragments of the data. The resurrection uniquely accounts for the empty tomb, appearances, and early Christian movement.",
+  "tags": ["resurrection", "alternative theories", "history"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 125,
+  "title": "Worldview Integration: Christianity Explains Origins",
+  "summary": "The authors argue that Christianity provides a coherent explanation for the origin of the universe, life, and consciousness.",
+  "embedding_text": "The universe’s beginning, fine‑tuning, and biological information point to a Creator. Consciousness and morality align with a personal God. Christianity integrates these data into a unified worldview.",
+  "tags": ["origins", "worldview", "theism"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 126,
+  "title": "Worldview Integration: Christianity Explains Morality",
+  "summary": "The authors argue that Christianity grounds objective morality in God’s character.",
+  "embedding_text": "Moral truths require a transcendent source. Christianity explains moral obligation, human dignity, and justice. Naturalism cannot provide a sufficient foundation.",
+  "tags": ["morality", "ethics", "worldview"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 127,
+  "title": "Worldview Integration: Christianity Explains Meaning",
+  "summary": "The authors argue that Christianity provides a coherent framework for meaning and purpose.",
+  "embedding_text": "Meaning is grounded in God’s purpose for humanity. Christianity explains why humans seek purpose and how that purpose is fulfilled in relationship with God.",
+  "tags": ["meaning", "purpose", "worldview"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 128,
+  "title": "Worldview Integration: Christianity Explains Human Nature",
+  "summary": "The authors argue that Christianity accurately describes human greatness and human brokenness.",
+  "embedding_text": "Humans exhibit creativity, rationality, and moral awareness yet struggle with selfishness and evil. Christianity explains this tension through the doctrines of the image of God and the fall.",
+  "tags": ["human nature", "sin", "imago dei"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 129,
+  "title": "Worldview Integration: Christianity Explains Suffering",
+  "summary": "The authors argue that Christianity offers both an explanation for suffering and hope beyond it.",
+  "embedding_text": "Suffering results from human freedom and a fallen world. Christianity teaches that God can bring good from suffering and promises ultimate restoration through Christ.",
+  "tags": ["suffering", "theodicy", "hope"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+},
+{
+  "id": 130,
+  "title": "Worldview Integration: Christianity Explains Destiny",
+  "summary": "The authors argue that Christianity provides a coherent and hopeful vision of humanity’s ultimate destiny.",
+  "embedding_text": "Christianity teaches that humans are created for eternal relationship with God. The resurrection guarantees future restoration and eternal life. This destiny aligns with human longing for eternity.",
+  "tags": ["destiny", "eternity", "hope"],
+  "source": "I Don't Have Enough Faith to Be an Atheist"
+}
+]
